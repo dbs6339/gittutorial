@@ -4,8 +4,10 @@
 
 # 달성 과제
 
-# 다음 과제
 
+# 다음 과제
+- Git markdown (Markdown) 분석 및 정리
+- Git 작성 방법론 분석
 
 # Interface
 >1. Git을 통한 daily task 관리
